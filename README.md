@@ -11,19 +11,12 @@ This project involves designing and building a compact pocket calculator based o
   | 2   | Pham Thi Phuong Anh | 22520070     |                        |
 
 - **Class code:** CE103.O22 (Semeter II, 2024)
-## 2. Hardwares & Installation:
-- Arduino Uno with the ATmega328p microcontroller.
-- 16x2 LCD
-- 4x4 Keypad
-- Adapter 5V 3A Jack to 5.5 x 2.1mm
-- Single Potentiometer (POT) 10K Ohm (compatible brightness adjustment for LCD)
-- 8 Resistors (ensures better signal reception from the keyboard)
-- Arduino UNO code loading cable.
-
-You will need to have some toolchains installed on your system. This includes:
-* Proteus 8 Professional 
-* Arduino IDE
-* Altium Design
+## 2. Details:
+- **Microcontroller:** ARDUINO Uno R3
+- **Hardware:** 16x2 LCD, Matrix 4x4 Keypad, Adapter 5V 3A Jack to 5.5 x 2.1mm, single potentiometer (POT) 10K ohm, resistors, code loading cable.
+- **Technical skill**: C/C++.
+- **Environment Development:** ArduinoIDE, Altium Designer, Proteus 8 Professional (version 8.17).
+  
 ## 3. Simulation:
 ![image](https://github.com/user-attachments/assets/8e733d1d-9563-4b58-ac2e-e55f04946f34)
 
